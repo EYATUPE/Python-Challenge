@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Ask the user the Day today
 Day = input("What's the Day today? ")
 # Print the input
