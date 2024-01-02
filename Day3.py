@@ -1,2 +1,2 @@
-Last_Name = input("Whats your Last Name? ")
-Print("Hello Philip" + Last_Name)
+Day = input("What's the Day today? ")
+print("Today is: " + Day)
