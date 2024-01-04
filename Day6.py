@@ -2,4 +2,4 @@
 PHILIP = input("Which Day of Python is? ")
 print("Well done, " + PHILIP)
 GREET = input("How are you? " + PHILIP)
-print("PHILIP" + GREET)
+print("PHILIP " + GREET)
