@@ -7,4 +7,4 @@ Good Luck EPE
 
 
 / - This denotes the root directory in a Unix-like file system.
-
+usr: This is the directory that contains user-related programs and utilities. It stands for "user.
