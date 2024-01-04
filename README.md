@@ -12,3 +12,6 @@ usr: - This is the directory that contains user-related programs and utilities. 
 bin: - This is short for "binary" and is the directory where executable files (programs) are typically stored.
 
 env: - This is a command in Unix-like operating systems that is short for "environment." When used in the context of a shebang line (#!/usr/bin/env), it's a way of finding the path to the specified command or interpreter in the user's environment.
+
+NOTE:
+when /usr/bin/env is used in a shebang line like #!/usr/bin/env python3, it is telling the system to locate the python3 interpreter in the user's environment. The env command helps with this by searching the directories listed in the user's PATH variable for the specified command (python3 in this case) and then executing it. This approach provides flexibility because it allows users to use the version of the interpreter that is first found in their PATH, and it's not tied to a specific absolute path.
