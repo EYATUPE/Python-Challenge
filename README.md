@@ -11,4 +11,4 @@ usr: - This is the directory that contains user-related programs and utilities. 
 
 bin: - This is short for "binary" and is the directory where executable files (programs) are typically stored.
 
-
+env: - This is a command in Unix-like operating systems that is short for "environment." When used in the context of a shebang line (#!/usr/bin/env), it's a way of finding the path to the specified command or interpreter in the user's environment.
