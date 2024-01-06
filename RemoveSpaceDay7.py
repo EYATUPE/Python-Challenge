@@ -7,6 +7,6 @@ Name = Name.strip()
 
 # Capitalize user's Name (First Letter)
 
-Name = Name.Capitalize()
+Name = Name.capitalize()
 # Print User's Name
 print(f"Hello, {Name}")
