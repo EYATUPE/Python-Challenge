@@ -6,4 +6,4 @@ name = input("What's Your Name? ").strip().title()
 firt, Last = name.split()
 
 #Print User's Name
-print("Hello, " {first})
+print("Hello, {first}")
