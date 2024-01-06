@@ -5,5 +5,8 @@ Name = input("What's your Name? ")
 # Remove Whitespaces from the str
 Name = Name.strip()
 
+# Capitalize user's Name (First Letter)
+
+Name = Name.Capitalize()
 # Print User's Name
 print(f"Hello, {Name}")
