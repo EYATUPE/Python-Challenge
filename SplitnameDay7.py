@@ -3,7 +3,7 @@
 name = input("What's Your Name? ").strip().title()
 
 # Split User's Name
-firt, Last = name.split()
+first, Last = name.split()
 
 #Print User's Name
 print(f"Hello, {first}")
