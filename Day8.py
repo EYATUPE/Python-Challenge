@@ -31,7 +31,7 @@ can nest together, like in example 4, more so you can remove z
 #Example 4
 x = float(input("What's x ?")) # You can use "int" or "float"
 y = float(input("What's y ?"))
-print(x + y)
+print(x + y).round()
 
 """
 Lets reduce on the line of code though it might turn to be complex
