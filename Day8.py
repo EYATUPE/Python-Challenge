@@ -2,7 +2,7 @@
 """
 Python Calculator
 """
-Example 1
+#Example 1
 #x = 1
 #y = 2
 #z = x + y
@@ -12,3 +12,4 @@ Example 1
 x = input("What's x ??")
 y = input("What's y ??")
 z = x + y
+print(z)
