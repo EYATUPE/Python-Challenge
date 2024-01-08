@@ -9,10 +9,10 @@ Python Calculator
 #print(z)
 
 #Example 2
-x = input("What's x ? ")
-y = input("What's y ? ")
-z = x + y
-print(z)
+#x = input("What's x ? ")
+#y = input("What's y ? ")
+#z = x + y
+#print(z)
 
 """The Second Example will just concatenate the above 
 output instead of adding it up but look in example
