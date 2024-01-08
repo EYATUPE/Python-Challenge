@@ -43,13 +43,21 @@ Lets reduce on the line of code though it might turn to be complex
 """
 Rounding off
 """
+#x = float(input("What's x ?")) # You can use "int" or "float"
+#y = float(input("What's y ?"))
+
+#z = round(x + y)
+#print(z)
+
+#Example 7
+"""
+Adding commas in a long number or outpu
+"""
 x = float(input("What's x ?")) # You can use "int" or "float"
 y = float(input("What's y ?"))
 
 z = round(x + y)
 print(z)
-
-
 
 
 
