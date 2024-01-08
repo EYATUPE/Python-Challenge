@@ -57,7 +57,7 @@ x = float(input("What's x ?")) # You can use "int" or "float"
 y = float(input("What's y ?"))
 
 z = round(x + y)
-print(z)
+print(f{"z:,"})
 
 
 
