@@ -20,7 +20,12 @@ output instead of adding it up but look in example
 """
 
 #Example 3
-x = input("What's x ? ")
-y = input("What's y ? ")
-z = int(x) + int(y)
-print(z)
+#x = input("What's x ? ")
+#y = input("What's y ? ")
+#z = int(x) + int(y)
+#print(z)
+
+"""The third Example has alot of line codes which you
+can nest together, like in example 4, more so you can remove z
+"""
+
