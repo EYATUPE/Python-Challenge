@@ -29,6 +29,6 @@ output instead of adding it up but look in example
 can nest together, like in example 4, more so you can remove z
 """
 #Example 4
-x = input(int("What's x ?"))
-y = input(int("What's y ?"))
+x = int(input("What's x ?"))
+y = int(input("What's y ?"))
 print(x + y)
