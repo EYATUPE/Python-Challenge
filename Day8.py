@@ -29,9 +29,9 @@ output instead of adding it up but look in example
 can nest together, like in example 4, more so you can remove z
 """
 #Example 4
-x = float(input("What's x ?")) # You can use "int" or "float"
-y = float(input("What's y ?"))
-print(x + y).round()
+#x = float(input("What's x ?")) # You can use "int" or "float"
+#y = float(input("What's y ?"))
+#print(x + y)
 
 """
 Lets reduce on the line of code though it might turn to be complex
@@ -39,7 +39,15 @@ Lets reduce on the line of code though it might turn to be complex
 #Example 5
 #print(int(input("What's x? " )) + int(input("What's y? ")))
 
+#Example 6
+"""
+Rounding off
+"""
+x = float(input("What's x ?")) # You can use "int" or "float"
+y = float(input("What's y ?"))
 
+z = x + y
+print(z)
 
 
 
