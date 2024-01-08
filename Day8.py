@@ -37,5 +37,4 @@ can nest together, like in example 4, more so you can remove z
 Lets reduce on the line of code
 """
 #Example 5
-
-print = int(input("What's x?" )) + int(input("What's y? "))
+print(int(input("What's x? " )) + int(input("What's y? ")))
