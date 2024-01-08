@@ -29,15 +29,15 @@ output instead of adding it up but look in example
 can nest together, like in example 4, more so you can remove z
 """
 #Example 4
-#x = int(input("What's x ?"))
-#y = int(input("What's y ?"))
-#print(x * y)
+x = int(input("What's x ?"))
+y = int(input("What's y ?"))
+print(x / y)
 
 """
 Lets reduce on the line of code though it might turn to be complex
 """
 #Example 5
-print(int(input("What's x? " )) + int(input("What's y? ")))
+#print(int(input("What's x? " )) + int(input("What's y? ")))
 
 
 
