@@ -36,3 +36,6 @@ print(x * y)
 """
 Lets reduce on the line of code
 """
+#Example 5
+
+print = int(input("What's x?" )) + int(input("What's y? "))
