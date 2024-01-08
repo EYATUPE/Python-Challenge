@@ -28,4 +28,7 @@ output instead of adding it up but look in example
 """The third Example has alot of line codes which you
 can nest together, like in example 4, more so you can remove z
 """
-
+#Example 4
+x = input(int("What's x ?"))
+y = input(int("What's y ?"))
+print(x + y)
