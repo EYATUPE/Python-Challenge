@@ -46,7 +46,7 @@ Rounding off
 x = float(input("What's x ?")) # You can use "int" or "float"
 y = float(input("What's y ?"))
 
-z = x + y
+z = round(x + y)
 print(z)
 
 
