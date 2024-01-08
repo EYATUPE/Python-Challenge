@@ -9,7 +9,7 @@ Python Calculator
 #print(z)
 
 #Example 2
-x = input("What's x ??")
-y = input("What's y ??")
+x = input("What's x ? ")
+y = input("What's y ? ")
 z = x + y
 print(z)
