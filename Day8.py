@@ -34,7 +34,28 @@ can nest together, like in example 4, more so you can remove z
 #print(x * y)
 
 """
-Lets reduce on the line of code
+Lets reduce on the line of code though it might turn to be complex
 """
 #Example 5
 print(int(input("What's x? " )) + int(input("What's y? ")))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
