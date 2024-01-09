@@ -2,7 +2,8 @@
 """
 Rounding off with specific digits
 """
-print = input("What's x? ")
-print = input("What's y? ")
+x = float(input("What's x? "))
+y = float(input("What's y? "))
 
-print = round(x / y)
+z = round(x / y, 4)
+print(f"{z:,}")
